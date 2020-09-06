@@ -45,5 +45,11 @@
                 />
         </provider>
     </application>
+          <application ...>
+   <!-- Please put your client id here -->50a0126a-fcda-42cf-b89b-c3db419c6510
+   <meta-data android:name="com.snapchat.kit.sdk.clientId" android:value="50a0126a-fcda-42cf-b89b-c3db419c6510" />
+
+   <!-- See below in the next section for how to setup FileProvider -->
+</application>
 
 </manifest>
